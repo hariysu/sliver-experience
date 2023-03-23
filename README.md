@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This is an sliver example project. It can be reach from https://www.youtube.com/live/YY-_yrZdjGc?feature=share
+This is a sliver example project. It can be reach from https://www.youtube.com/live/YY-_yrZdjGc?feature=share
 
 A sliver is a portion of a scrollable area, which means anything that scrolls in Flutter is a sliver. ListView and GridView are a kind of sliver.
 
